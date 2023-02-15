@@ -15,3 +15,6 @@ Interested in the intersection of **Biomimicry**, **Data**, and **AI** in the re
 </p>
 
 <h4 align="left">💻 Proficient in bash, C, C++, CSS3, Git, HTML5, Linux</h4>
+
+<h4 align="left">📫 You can reach me directly on my <a href="https://www.linkedin.com/in/edoardo-giacomini/">linkedIn</a></h4>
+
