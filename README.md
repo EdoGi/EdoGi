@@ -5,7 +5,8 @@
 
 🔭 I’m currently looking for **job** and **project opportunities** 💻🚀
 
-Interested in the intersection of **Biomimicry**, **Data**, and **AI** in the realm of art and innovative industries. Currently honing my skills at School 42 💻🚀
+Interested in the intersection of **Biomimicry**, **Data**, and **AI** in the realm of art and innovative industries. 
+Currently honing my skills at School 42 💻🚀
 
 💬 Ask me about Biomimicry in tech
 
@@ -13,7 +14,7 @@ Interested in the intersection of **Biomimicry**, **Data**, and **AI** in the re
 <p align="left">
 </p>
 
-⚡️ I'm an inquisitive, enthusiastic, fast learner, and curious person. 
 <h4 align="left">💻 Proficient in React JS, TypeScript, Python, C & C++, transitioning from a background in Business Development. </h4>
+<h4 align="left">⚡️ I'm an inquisitive, enthusiastic, fast learner, and curious person. </h4>
 
 <h4 align="left">📫 You can reach me directly on my <a href="https://www.linkedin.com/in/edoardo-giacomini/">linkedIn</a></h4>
