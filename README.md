@@ -3,7 +3,7 @@
 <h1 align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle4wvyh300730fjle81kvzy1/stats?cursusId=21&coalitionId=45" alt="egiacomi's 42 stats" /></a></h1>
 <h3 align="center">Multi-passionate, I want to inject more ethics and holistic approach into the field of programming, whether in the development methods, in the fields of application or in the products designed.</h3>
 
-🔭 I’m currently working on **ft_containers** at **School 42** 💻🚀
+🔭 I’m currently looking for **job** and **project opportunities** 💻🚀
 
 Interested in the intersection of **Biomimicry**, **Data**, and **AI** in the realm of art and innovative industries. Currently honing my skills at School 42 💻🚀
 
